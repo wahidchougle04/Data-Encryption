@@ -47,5 +47,13 @@ Each user detail collected during registration undergoes a specific cipher opera
 * **Application Server:** Apache Tomcat 9+ / GlassFish Server
 * **IDE:** NetBeans / Eclipse / Visual Studio Code
 
+<img width="805" height="293" alt="image" src="https://github.com/user-attachments/assets/4b6563f9-c1a5-4741-84bd-6178e7c75b6d" />
+<img width="842" height="390" alt="image" src="https://github.com/user-attachments/assets/4bc50218-7ce8-45d8-883e-2bd887af3d31" />
+<img width="820" height="354" alt="image" src="https://github.com/user-attachments/assets/93c7c7e5-469b-4f3b-ab79-87d186ce392d" />
+<img width="836" height="480" alt="image" src="https://github.com/user-attachments/assets/488a371f-092d-4ef7-987b-d1812efcc5ba" />
+<img width="853" height="131" alt="image" src="https://github.com/user-attachments/assets/f485ccd6-4034-4fb8-9334-3f170156b660" />
+<img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/240a25a4-0932-47a1-aba3-303000d7ee74" />
+<img width="532" height="488" alt="image" src="https://github.com/user-attachments/assets/5b2295c8-5f05-4728-8ad9-b51d4fab9751" />
+
 ---
 
